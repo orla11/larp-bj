@@ -1,6 +1,6 @@
 {
     "name": "0rla/larp-bj",
-    "description": "A JWT API Boilerplate to create a ready-to-use REST API with Entrust roles and permissions in seconds. Original boilerplate: thanks to francesco malatesta: https://github.com/francescomalatesta/laravel-api-boilerplate-jwt",
+    "description": "A JWT API Boilerplate to create REST APIs with Entrust roles and permissions. Original boilerplate: thanks to francesco malatesta: https://github.com/francescomalatesta/laravel-api-boilerplate-jwt",
     "keywords": ["laravel", "api", "boilerplate", "jwt", "permissions", "roles"],
     "license": "MIT",
     "type": "project",
